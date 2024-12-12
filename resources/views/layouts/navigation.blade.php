@@ -18,16 +18,6 @@
                     </x-nav-link>
                 </div>
                 <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
-                    <x-nav-link :href="route('about')" style="font-size:18px;padding-right: 40px;">
-                        {{ __('About Us') }}
-                    </x-nav-link>
-                </div>
-                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
-                    <x-nav-link :href="route('myworks')" style="font-size:18px;padding-right: 40px;">
-                        {{ __('My Works') }}
-                    </x-nav-link>
-                </div>
-                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
                     <x-nav-link :href="route('create')" style="font-size:18px;padding-right: 40px;">
                         {{ __('Create') }}
                     </x-nav-link>
