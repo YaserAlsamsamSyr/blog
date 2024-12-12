@@ -54,7 +54,7 @@
             </main>
             <footer class="footer">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-                <p>© 2024 Blog_Ahmad-Obaid. All rights reserved.</p>
+                <p>© 2024 Blog_Yaser_Alsamsam. All rights reserved.</p>
                 <p>
                     <a href="/privacy-policy">Privacy Policy</a> | 
                     <a href="/terms-of-service">Terms of Service</a> | 
